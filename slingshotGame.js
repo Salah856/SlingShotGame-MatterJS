@@ -57,21 +57,3 @@ Matter.Events.on(engine,'afterUpdate', function() {
   }
 });
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
